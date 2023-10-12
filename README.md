@@ -1,2 +1,2 @@
-# modern_portfolio.github.io
+# modern_portfolio.github.io/dist/
 
