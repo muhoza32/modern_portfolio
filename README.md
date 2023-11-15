@@ -1,2 +1,2 @@
-# modern_portfolio/dist
+# modern_portfolio
 Responsive Portfolio Website
